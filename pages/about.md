@@ -14,9 +14,12 @@ credits: true
 
 ## About the Pearl V. Turner Collection
 
+{% include feature/image.html objectid="objects/Yearbook_profile_photo.jpg" width="50" %}
+_Yearbook photo of Pearl Turner in 1928_
+
  Pearl Turner, an alumna from the University of Colorado Boulder Class of 1904, lived and climbed in Colorado, as well as across the United States, in the early 20th century. According to historical documents, she spent many years as a teacher and lived for a period of time in Colorado Springs, Colorado on Weber street. She was an early member of the Colorado Mountain Club and was an active member until at least 1959. The Pearl V. Turner Collection at the University of Colorado Boulder houses original items from Pearl Turner, including two photo albums about her mountaineering trips and her collection of mountaineering literature, including magazines, Colorado Mountain Club newsletters, and plant-identifying books, among other print materials. This digital exhibit explores and highlights her personal photo album from a 1914 mountaineering trip with the Colorado Mountain Club in what would become Rocky Mountain National Park the following year. The album documents the trip with film photographs and typewritten journal pages describing Pearl's persepctive, experiences, and life in Rocky Mountain months before it was recognized as a national site.
 
-{% include feature/image.html objectid="objects/Yearbook_profile_photo.jpg" width="75" %}
+
 
 
 ## Research
